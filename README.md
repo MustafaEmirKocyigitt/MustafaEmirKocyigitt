@@ -1,5 +1,5 @@
 <h1 align="center">👋 Merhaba, ben Mustafa Emir Koçyiğit</h1>
-<p align="center">C# • .NET • React • Frontend & Backend Geliştirici</p>
+<p align="center">C# • .NET • React • Full-Stack developer</p>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 🎯 Yazılım geliştirme alanında kendimi sürekli geliştiriyorum.
 - 💻 Ağırlıklı olarak **C#, .NET, React, TailwindCSS, JavaScript, TypeScript, HTML, CSS** teknolojileriyle çalışıyorum.
-- 📚 Yeni öğrendiğim konular: **TypeScript**, **Gelişmiş Frontend yapıları**
+- 📚 Yeni öğrendiğim konular: **TypeScript**, **React**, **NodeJS**
 - 📝 Yazılarımı buradan okuyabilirsin: [Medium Profilim](https://medium.com/@mustafaemirkocyigit)
 - 🌐 LinkedIn üzerinden bana ulaşabilirsin: [LinkedIn Profilim](https://www.linkedin.com/in/mustafaemirkocyigit/)
 - ⚡ Temiz ve sürdürülebilir kod yazmayı seviyorum.
