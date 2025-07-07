@@ -4,7 +4,7 @@
 ---
 
 - 🔭 Şu anda **.NET ve React projeleri** geliştiriyorum.
-- 🌱 Yeni öğreniyorum: **TypeScript**, **Gelişmiş Frontend Teknikleri**
+- 🌱 Yeni öğreniyorum: **TypeScript**, **React**
 - 👨‍💻 Ana teknolojilerim: **C#, .NET, React, TailwindCSS, JavaScript, TypeScript, HTML, CSS**
 - 💬 Bana şunları sorabilirsin: **Web Geliştirme, C#, Frontend & Backend mimarileri**
 - 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/mustafaemirkocyigit/)
