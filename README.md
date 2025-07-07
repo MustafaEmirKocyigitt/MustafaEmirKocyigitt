@@ -29,15 +29,6 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafaemirkocyigit&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaemirkocyigit&theme=default" height="150" />
-</div>
-
----
-
 ### 🔗 Bağlantılar
 
 <p align="center">
